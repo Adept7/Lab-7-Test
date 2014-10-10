@@ -1,7 +1,10 @@
-
 import javax.swing.JFileChooser;
 
-//Comment about AddressBookDemo.
+/**
+ * This is the main class of the program.
+ * @author Jack Dubil
+ * @version 1.0
+ */
 public class AddressBookDemo
 {
    public static void main(String[] args)

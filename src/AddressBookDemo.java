@@ -1,7 +1,6 @@
 import javax.swing.JFileChooser;
 
 /**
- * Modifications!
  * This is the main class of the program.
  * @author Jack Dubil
  * @version 1.0

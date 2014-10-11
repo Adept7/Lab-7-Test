@@ -1,6 +1,4 @@
-
 /**
- * Extra documentation1
    An address book for looking up information about people.
 */
 public interface AddressBook {

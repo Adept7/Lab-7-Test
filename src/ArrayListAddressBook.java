@@ -6,7 +6,6 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /**
- * Also modified!
  * An implementation of the AddressBook interface that uses an array list to
  * store the data.
  */
